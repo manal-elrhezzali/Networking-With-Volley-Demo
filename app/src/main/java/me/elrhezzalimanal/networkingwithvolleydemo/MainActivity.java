@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
                 post.put("title", "A new Post");
                 post.put("body", "manal manal manal chab3a 3ya9a tamalha tal9aha 3lina  shab rassha diva 3mri ma hmltha ma9bltha madayzach liyaaaaaaw");
                 return post;
-                //the response of the post request is the post that you sent to the server
+                //the response of the post request is the Json format of the post that you sent to the server
             }
         };
 
